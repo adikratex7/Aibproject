@@ -1,7 +1,6 @@
 package com.aditya.controller;
 
 
-import java.util.Random;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
